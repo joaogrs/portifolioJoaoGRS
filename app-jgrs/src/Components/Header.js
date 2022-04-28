@@ -1,13 +1,14 @@
 import React from "react";
 import { FaBars } from 'react-icons/fa';
+import '../styles/header.css'
 
 const Header = () => {
   return (
-    <section>
-      <h2>
-          joaogrs
+    <section className="header">
+      <h2 className="headerText">
+          JOAOgrS
       </h2>
-      <div>
+      <div className="headerIcon">
         <FaBars />
       </div>
     </section>

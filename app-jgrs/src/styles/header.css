@@ -1,0 +1,31 @@
+@font-face {
+    font-family: 'RazedBold';
+    src: url('RazedBold.ttf') format('truetype');
+}
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+
+.headerText {
+  margin-left: 35px;
+  margin-top: 33px;
+  font-family: RazedBold ;
+  color: #0aeb43;
+}
+
+.headerIcon {
+  font-size: 25px;
+  color: white;
+  background-color: rgb(15, 15, 15);
+  border-radius: 100%;
+  width: 40px;
+  height: 40px;
+  margin-right: 40px;
+  margin-top: 27px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
