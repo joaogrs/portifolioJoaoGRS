@@ -1,0 +1,24 @@
+.homeContainer {
+  margin-top: 100px;
+  margin-left: 140px;
+  width: 300px;
+}
+
+.homeContainer button {
+  background-color: #17eb4c ;
+  border: none;
+  width: 130px;
+  height: 40px;
+  border-radius: 20px;
+  font-weight: bold;
+  margin-top: 13px;
+}
+.homeContainer h1 {
+  font-size: 55px;
+  margin: 0;
+  margin-bottom: 40px;
+}
+
+.profession {
+  color: #17eb4c
+}
