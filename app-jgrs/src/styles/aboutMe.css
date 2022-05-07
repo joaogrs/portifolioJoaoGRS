@@ -1,0 +1,49 @@
+.aboutMe {
+  background-color: white;
+  color: black;
+  margin-bottom: 0px;
+  padding: 10px;
+}
+
+.cards {
+    display: flex;
+    justify-content: space-evenly;
+    margin-right: 40px;
+}
+
+.cardAtrb {
+  display: flex;
+  flex-direction: column;
+  max-width: 225px;
+  margin-right: 15px;
+}
+
+.cardAtrb strong{
+  padding-bottom: 15px;
+}
+
+.wrapStart {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.wrapStart h1 {
+  font-size: 40px;
+  color: #17eb4c;
+  margin-bottom: 20px;
+  padding-top: 60px;
+  }
+
+.wrapStart p {
+  text-align: center;
+  font-size: 17px;
+  max-width: 1130px;
+  margin-bottom: 30px;
+}
+
+.wrapMedium p {
+  text-align: center;
+  margin-top: 50px;
+  padding-bottom: 60px;
+}
