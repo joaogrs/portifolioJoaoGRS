@@ -8,7 +8,7 @@ const AboutMe = () => (
        MINHA VISÃO
       </h1>
       <p>
-      Sed et tortor mollis, lacinia turpis in, mollis ipsum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Quisque a scelerisque neque. Vestibulum at mi aliquam, vulputate massa a, condimentum arcu. Donec ac tempus dolor, egestas ornare eros. Nunc facilisis purus dui, ut ultrices risus feugiat maximus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;
+      Sed et tortor mollis, lacinia turpis in, mollis ipsum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Quisque a scelerisque neque. Vestibulum at mi aliquam, vulputate massa a, condimentum arcu. Donec ac tempus dolor, egesta.;
       </p>
     </div>
     <div className='wrapMedium'>

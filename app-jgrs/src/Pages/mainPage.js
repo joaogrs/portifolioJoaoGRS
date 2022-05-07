@@ -3,6 +3,7 @@ import Header from "../Components/Header";
 import Home from "../Components/Home";
 import AboutMe from "../Components/AboutMe";
 import Video from "../Components/Video";
+import Projects from "../Components/Projects";
 
 
 const mainPage = () => {
@@ -12,6 +13,7 @@ const mainPage = () => {
       <Home />
       <AboutMe />
       <Video />
+      <Projects />
     </section>
     )
 }
