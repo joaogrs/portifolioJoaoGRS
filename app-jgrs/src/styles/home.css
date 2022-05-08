@@ -20,6 +20,10 @@
   margin-bottom: 40px;
 }
 
+.description {
+  color: rgb(165, 165, 165);
+}
+
 .profession {
   color: #17eb4c
 }

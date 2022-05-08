@@ -11,9 +11,9 @@ const mainPage = () => {
     <section>
       <Header />
       <Home />
-      <AboutMe />
-      <Video />
       <Projects />
+      <Video />
+      <AboutMe />
     </section>
     )
 }
