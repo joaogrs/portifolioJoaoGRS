@@ -1,5 +1,4 @@
 import React from "react";
-import { FaBars } from 'react-icons/fa';
 import '../styles/header.css'
 
 const Header = () => {
@@ -8,8 +7,15 @@ const Header = () => {
       <h2 className="headerText">
           JOAOgrS
       </h2>
-      <div className="headerIcon">
-        <FaBars />
+      <ul className="options">
+        <li>home</li>
+        <li>projetos</li>
+        <li>apresentação</li>
+        <li>visão</li>
+        <li>artigos</li>
+      </ul>
+      <div className="border">
+      <p className="textBtn"><b>contrate-me</b></p>
       </div>
     </section>
     )

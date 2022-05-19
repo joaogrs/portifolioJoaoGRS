@@ -1,6 +1,6 @@
 .aboutMe {
-  background-color: rgb(15, 15, 15);
-  color: white;
+  background-color:white;
+  color: black;
   margin-bottom: 0px;
   padding: 10px;
 }
@@ -40,12 +40,10 @@
   font-size: 17px;
   max-width: 1130px;
   margin-bottom: 30px;
-  color: rgb(165, 165, 165);
 }
 
 .wrapMedium p {
   text-align: center;
   margin-top: 50px;
   padding-bottom: 60px;
-  color: rgb(165, 165, 165);
 }
