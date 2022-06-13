@@ -5,7 +5,7 @@ import '../styles/projects.css'
 
 const Projects = () => {
   return(
-  <section className='projectSection'>
+  <section className='projectSection' id='projects'>
     <p className='firstP'>Featured Projects --</p>
     <h1>Stuff I've Worked On📂</h1>
     <div className='containerCards'>

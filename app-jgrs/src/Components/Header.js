@@ -8,15 +8,21 @@ const Header = () => {
           JOAOgrS
       </h2>
       <ul className="options">
-        <li>home</li>
-        <li>projetos</li>
+        <a href="#home">
+          <li>home</li>
+        </a>
+        <a href="#projects">
+          <li>projetos</li>
+        </a>
         <li>apresentação</li>
         <li>visão</li>
         <li>artigos</li>
       </ul>
-      <div className="border">
-      <p className="textBtn"><b>contrate-me</b></p>
-      </div>
+      <a href="https://www.linkedin.com/in/joaogrs159/">
+        <div className="border">
+        <p className="textBtn"><b>contrate-me</b></p>
+        </div>
+      </a>
     </section>
     )
 }

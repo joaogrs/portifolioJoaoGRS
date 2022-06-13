@@ -3,7 +3,7 @@ import '../styles/home.css'
 
 const Home = () => {
   return (
-    <section className='homeContainer'>
+    <section className='homeContainer' id='home'>
       <p>HI THERE, I'M 👋</p>
       <h1>joaogrs.</h1>
       <p className='profession'>FULL STACK DEVELOPER  👨‍💻</p>
