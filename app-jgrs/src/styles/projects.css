@@ -1,0 +1,65 @@
+.firstP {
+  color: rgb(165, 165, 165);
+}
+
+.projectSection {
+  margin-left: 140px;
+  color: black;
+}
+
+.projectSection h1 {
+  font-size: 30px;
+  color: white;
+  margin-top: 20px;
+}
+
+.iconCard {
+  margin: 20px 0 0 240px;
+  font-size: 25px;
+}
+
+.icon1 {
+  margin-right: 10px;
+}
+
+.titleProject {
+  font-size: 40px;
+  margin-top: 80px;
+}
+.projectCard {
+  width: 340px;
+  height: 340px;
+  margin-right: 40px;
+  margin-bottom: 40px;
+  background-color: #17eb4c;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.containerCards {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+#card1 {
+  background-image: linear-gradient(to bottom, #F5BB8E, #EDCEB0);
+}
+
+#card2 {
+  background-image: linear-gradient(to bottom, #9EEEE8,#def7f5, #C781F5);
+}
+
+#card3 {
+  background-image: linear-gradient(to bottom, #F5AAD9, #F5B1ED);
+}
+
+#card4 {
+  background-image: linear-gradient(to bottom, #f0b77d, #EDCEB0);
+}
+
+#card5 {
+  background-image: linear-gradient(to right, #abf0ec, #d9b5f1);
+}

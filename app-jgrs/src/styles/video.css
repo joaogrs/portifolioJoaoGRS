@@ -1,0 +1,13 @@
+.videoSection {
+  height: 700px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: black;
+}
+
+.video {
+  height: 400px;
+  width: 750px;
+  border-style: none;
+}

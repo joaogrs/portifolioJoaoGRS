@@ -1,0 +1,51 @@
+@font-face {
+  font-family: 'Nineteenth';
+  src: url('Nineteenth.otf') format('opentype');
+}
+
+.homeContainer {
+  margin-top: 150px;
+  margin-left: 140px;
+  width: 300px;
+  height: 575px;
+}
+
+.homeContainer button {
+  background-color: #17eb4c ;
+  border: none;
+  width: 130px;
+  height: 40px;
+  border-radius: 20px;
+  font-weight: bold;
+  margin-top: 13px;
+}
+.homeContainer h1 {
+  font-size: 55px;
+  margin: 0;
+  margin-bottom: 40px;
+  background-image: linear-gradient(to right,white, white,white, rgb(255, 66, 113),rgb(120, 252, 234),rgb(253, 223, 91),rgb(252, 191, 59)  );
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  background-size: 300%;
+  background-position: -100%;
+  animation: backgroundH1 1s infinite alternate-reverse;
+  font-family: Nineteenth;
+}
+
+@keyframes backgroundH1 {
+  from {
+    background-position: 0%;
+  }
+  to {
+    background-position: 100%;
+  }
+}
+
+.description {
+  color: rgb(165, 165, 165);
+}
+
+.profession {
+  color: #17eb4c
+}
