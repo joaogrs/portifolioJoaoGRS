@@ -14,9 +14,13 @@ const Header = () => {
         <a href="#projects">
           <li>projetos</li>
         </a>
-        <li>apresentação</li>
-        <li>visão</li>
-        <li>artigos</li>
+        <a href="#video">  
+          <li>apresentação</li>
+        </a>
+        <a href="#visao">
+          <li>visão</li>
+        </a>
+          <li>artigos</li>
       </ul>
       <a href="https://www.linkedin.com/in/joaogrs159/">
         <div className="border">

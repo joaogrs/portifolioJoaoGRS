@@ -14,7 +14,6 @@ const mainPage = () => {
       <Header />
       <Home />
       <ImgCarrousel/>
-      <Projects />
       <Video />
       <AboutMe />
       <Footer/>

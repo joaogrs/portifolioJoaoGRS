@@ -11,6 +11,7 @@ const breakPoints = [
 
 const ImgCarrousel = () => {
     return (
+      <div className='containerCarousel' id='projects'>
         <Carousel breakPoints={breakPoints}>
             {dataProjects.map((project) => 
             <div class="card">
@@ -25,6 +26,7 @@ const ImgCarrousel = () => {
               </div>
             </div>)}
         </Carousel>
+        </div>
     )
 }
 

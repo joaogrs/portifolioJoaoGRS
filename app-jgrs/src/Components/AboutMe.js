@@ -2,7 +2,7 @@ import React from 'react';
 import '../styles/aboutMe.css'
 
 const AboutMe = () => (
-  <section className='aboutMe'>
+  <section className='aboutMe' id='visao'>
     <div className='wrapStart'>
       <h1>
        MINHA VISÃO

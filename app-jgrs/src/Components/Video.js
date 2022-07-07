@@ -3,7 +3,7 @@ import '../styles/video.css'
 
 const Video = () => {
   return (
-    <section className='videoSection'>
+    <section className='videoSection' id='video'>
     <iframe className='video'
         title='Youtube player'
         sandbox='allow-same-origin allow-forms allow-popups allow-scripts allow-presentation'

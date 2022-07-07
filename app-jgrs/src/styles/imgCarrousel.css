@@ -72,3 +72,8 @@
   width: 8rem;
   height: 2.5rem;
 }
+
+.containerCarousel {
+  padding: 0px 40px 55px 40px;
+  padding-top: 120px;
+}
